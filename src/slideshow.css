@@ -1,0 +1,16 @@
+.black {
+    color: black ;
+    align-self: right;
+     
+}
+.help {
+width: 840px;
+height: 595px;
+align-self: center;
+border-right: 1px solid#333;
+}
+
+.ikweet {
+    color:black;
+    font-size: 25px;
+}

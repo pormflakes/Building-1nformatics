@@ -1,0 +1,16 @@
+
+.basic {
+    color: black;
+    max-width: 100px;
+}
+
+.basicbold {
+    color: black;
+    font-weight: bold;
+}
+.basicbig{
+    color: black;
+    font-size: 50px;
+    font-family: "Times New Roman", Times, sans-serif;
+ 
+}
